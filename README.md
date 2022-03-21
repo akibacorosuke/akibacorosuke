@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Daichi</h1>
 <h3 align="center">A passionate Java developer</h3>
 
