@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daichi</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h1 align="left">Hi 👋, I'm Daichi</h1>
+<h3 align="left">A passionate Java developer</h3>
 
 - 🌱 I’m currently learning **Docker, Frontend development**
 
